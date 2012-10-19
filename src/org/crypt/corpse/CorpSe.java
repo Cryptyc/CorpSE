@@ -40,9 +40,9 @@ import com.beimin.eveapi.shared.wallet.transactions.WalletTransactionsResponse;
 
 public class CorpSe {
 	private static EveApi api = null;
-	private final static String vCode = "C7QeZM3Ctuqxwy8cUjq9KlUvBrnnH8ajg0XsByWT8O6MfXPHQioQZXZVuTyAGUmj";
-	private final static Integer keyId = 921320;
-	private final static Integer accountId = 50903148;
+	private final static String vCode = "";
+	private final static Integer keyId = 0;
+	private final static Integer accountId = 0;
 
 	public static void main(String[] args) throws ApiException {
 
